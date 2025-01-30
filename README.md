@@ -4,10 +4,12 @@
 Uma API simples criada com .NET 8 e Docker, que retorna a previsão do tempo para os dias da semana em Celsius, Fahrenheit e Kelvin.
 
 📌 Funcionalidades
+
 Retorna a temperatura para cada dia da semana.
 Suporta execução em Docker.
 Pode ser implantada no Azure Web App.
 Documentação interativa via Swagger.
+
 🚀 Como executar localmente
 
 1️⃣ Clonar o repositório
